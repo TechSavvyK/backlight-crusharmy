@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/bewildered-rabbits-rk3n9.blank-l0an1i0j",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve BVCjcMb4aH9z2isxVQNZ --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
